@@ -11,7 +11,6 @@ Create Account
 
 !Create Account
 
-
 Note: These are placeholder images. Replace them with actual screenshots of your running application for the best presentation on GitHub.
 ✨ Features
 🆕 Create Account — Create an account with name, age, email, and PIN.
